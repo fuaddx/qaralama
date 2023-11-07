@@ -1,0 +1,49 @@
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\bin\Debug\net6.0\Taskf.exe
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\bin\Debug\net6.0\Taskf.deps.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\bin\Debug\net6.0\Taskf.runtimeconfig.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\bin\Debug\net6.0\Taskf.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\bin\Debug\net6.0\Taskf.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\refint\Taskf.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\Taskf.genruntimeconfig.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\Taskf\obj\Debug\net6.0\ref\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\bin\Debug\net6.0\Taskf.exe
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\bin\Debug\net6.0\Taskf.deps.json
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\bin\Debug\net6.0\Taskf.runtimeconfig.json
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\bin\Debug\net6.0\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\bin\Debug\net6.0\Taskf.pdb
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\refint\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.pdb
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\Taskf.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Desktop\Gnederf-main\obj\Debug\net6.0\ref\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\refint\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.pdb
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\bin\Debug\net6.0\Taskf.exe
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\bin\Debug\net6.0\Taskf.deps.json
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\bin\Debug\net6.0\Taskf.runtimeconfig.json
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\bin\Debug\net6.0\Taskf.dll
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\bin\Debug\net6.0\Taskf.pdb
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\Taskf.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Desktop\Tasks\Gnederf-main\obj\Debug\net6.0\ref\Taskf.dll
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.dll
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\refint\Taskf.dll
+C:\Users\birinci novbe\Desktop\Project-Person-main\obj\Debug\net6.0\Taskf.pdb
